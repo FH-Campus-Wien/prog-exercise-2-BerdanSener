@@ -142,7 +142,6 @@ public class App {
         Scanner sc = new Scanner(System.in);
         System.out.print("n: ");
         int eingabe = sc.nextInt();
-        //TEst
         int puffer = 0;
         do{
             puffer = 0;
